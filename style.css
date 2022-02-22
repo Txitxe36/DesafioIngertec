@@ -1,0 +1,51 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
+
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-image: url(images/fondo1.jpeg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+}
+
+h1{
+    font-family:'Acme', sans-serif;
+    font-size: 85px;
+    
+    text-shadow: 5px 5px 2px rgb(237, 243, 243);
+    margin: 5px;
+}
+
+
+
+/*IMAGEN3*/
+.tercer{
+    background-image: url(images/nubes.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+}
+
+.primer{
+    background-image: url(images/buho.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+}
+
+.quinta{
+    background-image: url(images/cascada2.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+}
+
+
+
